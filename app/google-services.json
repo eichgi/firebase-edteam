@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1087965905286",
+    "firebase_url": "https://quickstart-1057c.firebaseio.com",
+    "project_id": "quickstart-1057c",
+    "storage_bucket": "quickstart-1057c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087965905286:android:52af0691ff786f62",
+        "android_client_info": {
+          "package_name": "com.eichgi.edteamfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087965905286-86ui6ft27993l62vqibl2v896h9d5av0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eichgi.edteamfirebase",
+            "certificate_hash": "72d3febb6b04e15ba557a0ca0bc7e33eb9f3e870"
+          }
+        },
+        {
+          "client_id": "1087965905286-h4rounmtd9fp0li3rae9bh6f57icpmlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcJ7SFywdsKobEExw6MQerIaFNPIkcG_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087965905286-h4rounmtd9fp0li3rae9bh6f57icpmlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
